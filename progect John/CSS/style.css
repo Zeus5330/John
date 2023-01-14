@@ -32,6 +32,15 @@ header{
     display: flex;
     list-style: none;
 }
+.works_s{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #FF6464;
+}
 .blog{
     color: #FF6464;
 }
@@ -193,7 +202,12 @@ header nav li:hover a {
     padding-bottom: 83px;
     max-width: 858px;
     margin: auto;
-
+}
+.info_works{
+    padding-top: 90px;
+    padding-bottom: 58px;
+    max-width: 658px;
+    margin: auto;
 }
 .block_h h2{
     font-family: 'Heebo', sans-serif;
